@@ -4,7 +4,7 @@ const Form = () => {
       <div></div>
       <div className='bg-[#f9f9f9] p-10 md:w-[40%]'>
         <h3 className='text-[#48687f] text-3xl mb-2'>
-          <em>We're Ready to Help. Contact Us to Get Started!</em>
+          <em>{"We're Ready to Help. Contact Us to Get Started!"}</em>
         </h3>
         <span className='text-[#2D2D2D] text-sm'>*Required items marked as asterisks</span>
         <form>
